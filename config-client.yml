@@ -3,7 +3,7 @@
         active:
         - dev  #当前使用的环境
 ---
-server：
+server: 
     port: 6001
 spring:
     profiles: dev  #开发环境
