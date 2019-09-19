@@ -3,7 +3,7 @@ spring:
     active:
     - dev #当前使用的环境
 ---
-content: dev content 刷ssss
+content: dev content 刷锤子
 spring:
   profiles: dev #开发环境
   application:
